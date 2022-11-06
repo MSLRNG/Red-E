@@ -1,0 +1,16 @@
+.door{
+    background-color: cornflowerblue;
+    border: solid 2px navy;
+    position: fixed;
+    top: 0;
+    width: 0;
+    height: 100%;
+    overflow-x: hidden;
+    cursor: pointer;
+}
+#ldoor{
+    left: 0;
+}
+#rdoor{
+    right: 0;
+}
